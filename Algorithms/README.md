@@ -14,5 +14,5 @@
 ##### 1. Don't copy the code from anywhere on the net.
 ##### 3. Deadline is 31st October.
 ##### 4. We will personally check each code and if I find any code not following the rules, then his/her Pull Request will be marked as SPAM and it won't be counted.😥
-##
+###
 
